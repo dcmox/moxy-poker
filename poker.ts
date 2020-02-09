@@ -25,7 +25,7 @@ const PlayerNames = ['Phil Ivey', 'Daniel Negreanu', 'David Singer', 'Jason Merc
     TODO:
     * Handle player sitting out (not affording small blind)
     * Handle adjusting small / big blinds to next available players
-    * Handle termining if game session is over due to lack of players
+    * Handle determining if game session is over due to lack of players
     * Handle player AI to determine to bet/check/fold based on hands and odds
     * Give player AI different personalities (passive, aggressive, random, passive at first, then aggressive, etc.)
     * Make AI turns be played out at semi-random intervals (not too long though)
