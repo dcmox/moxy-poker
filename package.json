@@ -1,9 +1,9 @@
 {
-  "name": "underscore-functions",
-  "version": "0.6.5",
+  "name": "moxypoker",
+  "version": "0.2.0",
   "private": false,
-  "description": "String and array manipulation functions",
-  "main": "_f.js",
+  "description": "Moxy Poker",
+  "main": "poker.js",
   "engines": {
     "node": ">=4.0.0"
   },
@@ -26,19 +26,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcmox/_f.git"
+    "url": "git+https://github.com/dcmox/moxy-poker.git"
   },
   "keywords": [
-    "underscore f",
-    "underscore functions",
-    "string manipulation",
-    "array functions",
-    "moxy"
+    "moxy",
+    "poker"
   ],
   "author": "Daniel Moxon (dancmox@comcast.net)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dcmox/_f/issues"
+    "url": "https://github.com/dcmox/moxy-poker/issues"
   },
-  "homepage": "https://github.com/dcmox/_f#readme"
+  "homepage": "https://github.com/dcmox/moxy-poker#readme"
 }
